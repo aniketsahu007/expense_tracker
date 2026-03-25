@@ -33,9 +33,9 @@ ai-expense-tracker/
 │── cli/menu.py
 │── core/classifier.py
 │── core/predictor.py
-│── storage/file_handler.py
+│── storage/filehandler.py
 │── utils/validator.py
-│── data/expenses.json
+│── data/expense.json
 │── requirements.txt
 │── README.md
 ```
@@ -85,7 +85,7 @@ Added! Category: Food
 
 ## 8. Data Storage
 
-* All expenses are stored in `data/expenses.json`
+* All expenses are stored in `data/expense.json`
 * Data persists across multiple runs
 
 ---
